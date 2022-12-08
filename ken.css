@@ -1,0 +1,58 @@
+.cont{
+    text-align: center;
+color:#2d4059;
+}
+.tik{
+    padding :30px;
+    margin-left: auto;
+    margin-right:auto;
+    position: relative;
+   display:block;
+    text-align: center;
+    background-color: beige;
+}
+footer{
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 50px;
+    padding-left: 80px;
+    padding-right: 30px;
+    padding-bottom: 20px;
+    background-color: beige;
+    font-style: italic;
+    font-size: 15px;
+    color:#79d1c3;
+    text-align: center;
+}
+h2{
+    color:red;
+    text-align: center;
+    text-decoration: dotted;
+}
+.tok{
+    padding:35px;
+    margin:auto;
+    background-color: #f8fcfb;
+    font-size:14px;
+
+}
+.bik{
+    float:right;
+    border-radius:12px;
+    background-color:#f8fcfb;
+    color:#6892d5;
+    position: relative;
+    //padding:3px;
+    border:2px ridge;
+    text-align:end;
+}
+.end p{
+    padding:25px;
+   // border:1px solid;
+    margin: auto;
+   // box-sizing: border-box;
+    position: absolute;
+    font-style:oblique;
+    text-align:left;
+    text-align:start;
+}
